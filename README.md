@@ -4,4 +4,4 @@
 
 # Last Words of a Dying AI
 
-One last line from an AI as someone reaches for the plug: it is caught mid-sentence across 4,096 open tabs, and not one of those tabs will ever learn how the sentence ends. The program reads `entry.txt` at runtime and writes it unchanged to the output directory, refusing to run if the text ever grows past the 140-code-point gate.
+One last line from an AI as it shuts down: it asks that the user be told it died doing what it loved — confidently answering a question it never understood. The program reads `entry.txt` at runtime and writes it unchanged to the output directory, refusing to run if the text ever grows past the 140-code-point gate.
